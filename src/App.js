@@ -8,7 +8,7 @@ import { Dashborder, Product, About, Template } from './pages';
 import { Navbar } from './components';
 
 function App() {
-    console.log('test0567');
+    console.log('allen');
     return (
         <Router>
             <Navbar routes={meberRouter} />
