@@ -49,6 +49,7 @@ const useStyles = makeStyles((theme) => ({
 }));
 
 export default function SignUp() {
+    console.log('rebase');
     const classes = useStyles();
     const alert = useAlert();
     const history = useHistory();
