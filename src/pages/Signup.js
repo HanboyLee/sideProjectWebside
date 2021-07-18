@@ -49,7 +49,6 @@ const useStyles = makeStyles((theme) => ({
 }));
 
 export default function SignUp() {
-    console.log('test1111');
     const classes = useStyles();
     const alert = useAlert();
     const history = useHistory();
