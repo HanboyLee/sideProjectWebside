@@ -11,6 +11,10 @@ function App() {
     console.log(12311111);
     console.log(12311111);
     console.log(12311111);
+    console.log(12311111);
+    console.log(12311111);
+    console.log(12311111);
+    console.log(12311111);
     return (
         <Router>
             <Navbar routes={meberRouter} />
