@@ -10,7 +10,7 @@ import { Navbar } from './components';
 function App() {
     console.log('111');
     console.log('222');
-    console.log('alle333n2');
+
     return (
         <Router>
             <Navbar routes={meberRouter} />
